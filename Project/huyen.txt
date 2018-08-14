@@ -1,2 +1,3 @@
 hoc cho nhieu vo
 cang hoc cang ngu
+dua code len tiep theo
